@@ -1,7 +1,9 @@
 # Thallaja (ثلاجة)
 
 **Your on-demand refrigeration partner 🚚❄️**
+
 https://thallaja.com/
+
 Thallaja is a comprehensive mobile-first platform offering instant refrigeration services—rental, repair, maintenance—24/7 across the Middle East.
 
 ---
