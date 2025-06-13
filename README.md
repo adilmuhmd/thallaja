@@ -11,25 +11,25 @@ Thallaja is a comprehensive mobile-first platform offering instant refrigeration
 ## 📲 Key Features
 
 - **Instant Booking**  
-  Request cold storage services, refrigerated vehicles, or reefer containers via the app anytime, anywhere :contentReference[oaicite:1]{index=1}.
+  Request cold storage services, refrigerated vehicles, or reefer containers via the app anytime, anywhere 
 
 - **Live Technicians & ETA**  
-  Track technician locations in real-time, with security via 4-digit verification codes :contentReference[oaicite:2]{index=2}.
+  Track technician locations in real-time, with security via 4-digit verification codes 
 
 - **Mobile Workshops**  
-  Technicians arrive fully stocked and equipped for on-site repairs or maintenance :contentReference[oaicite:3]{index=3}.
+  Technicians arrive fully stocked and equipped for on-site repairs or maintenance 
 
 - **Flexible Rentals**  
-  Rent portable cold rooms, reefer trucks/containers for short-term events or long-term needs :contentReference[oaicite:4]{index=4}.
+  Rent portable cold rooms, reefer trucks/containers for short-term events or long-term needs
 
 - **Digital Invoicing & Secure Payments**  
-  Receive itemized cost breakdowns, pay via card or cash, and get instant digital receipts :contentReference[oaicite:5]{index=5}.
+  Receive itemized cost breakdowns, pay via card or cash, and get instant digital receipts 
 
 - **E‑Store of Spare Parts**  
-  Wide range of compressors, condensers, fans, thermostats, insulation kits—delivered to your doorstep :contentReference[oaicite:6]{index=6}.
+  Wide range of compressors, condensers, fans, thermostats, insulation kits—delivered to your doorstep 
 
 - **24/7 Customer Support**  
-  Dedicated support ensures zero downtime for your cold chain operations :contentReference[oaicite:7]{index=7}.
+  Dedicated support ensures zero downtime for your cold chain operations
 
 ---
 
@@ -48,9 +48,9 @@ Thallaja is a comprehensive mobile-first platform offering instant refrigeration
 
 ## 📈 Why Thallaja?
 
-- **15+ years** of industry experience :contentReference[oaicite:8]{index=8}  
+- **15+ years** of industry experience
 - **95%+ customer satisfaction**  
-- **100% service reliability** with expert technicians :contentReference[oaicite:9]{index=9}
+- **100% service reliability** with expert technicians
 
 ---
 
