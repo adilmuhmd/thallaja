@@ -1,0 +1,2 @@
+C:/Users/adilm/StudioProjects/untitled1/android/app/.cxx/Debug/393y5l1i/x86/CMakeFiles/edit_cache.dir
+C:/Users/adilm/StudioProjects/untitled1/android/app/.cxx/Debug/393y5l1i/x86/CMakeFiles/rebuild_cache.dir
